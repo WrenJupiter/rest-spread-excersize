@@ -4,7 +4,7 @@
     //       return num % 2 === 0
     //     });
     //   }
-const filterOutOdds = (...args) => { args.filter (nums = nums % 2 === 0);}
+const filterOutOdds = (...args) => { args.filter(nums => nums % 2 === 0)}
 
 
 
